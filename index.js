@@ -65,3 +65,10 @@ console.assert(5 > 7);
 
 var assert = require('assert');
 console.log(assert.equal(50, 50)); //OK
+
+// DAY3: chapter 3
+// 1--- vảiable let- const 
+let i;
+i = 0;
+i = i + 1;
+assert.equal(i, 1);
